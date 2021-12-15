@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaodein/workspace/project/stl模板元编程/1.类模板分离实现/src/main.cpp
+iostream
+-
+template.hpp
+/home/zhaodein/workspace/project/stl模板元编程/1.类模板分离实现/src/template.hpp
+
+include/template.h
+bits/stdc++.h
+-
+
+include/template.hpp
+template.h
+include/template.h
+

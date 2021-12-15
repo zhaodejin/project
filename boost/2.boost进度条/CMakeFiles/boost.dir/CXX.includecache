@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaodein/workspace/project/boost/2.boost进度条/src/main.cpp
+boost/version.hpp
+-
+boost/config.hpp
+-
+iostream
+-
+fstream
+-
+vector
+-
+boost/progress.hpp
+-
+

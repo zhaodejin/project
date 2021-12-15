@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/boost.dir/src/main.c.o  -o boost  -Wall 

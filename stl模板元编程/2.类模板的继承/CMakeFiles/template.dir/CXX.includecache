@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaodein/workspace/project/stl模板元编程/2.类模板的继承/src/main.cpp
+iostream
+-
+Animal.hpp
+/home/zhaodein/workspace/project/stl模板元编程/2.类模板的继承/src/Animal.hpp
+Cat.hpp
+/home/zhaodein/workspace/project/stl模板元编程/2.类模板的继承/src/Cat.hpp
+Dog.hpp
+/home/zhaodein/workspace/project/stl模板元编程/2.类模板的继承/src/Dog.hpp
+
+include/Animal.h
+bits/stdc++.h
+-
+
+include/Animal.hpp
+Animal.h
+include/Animal.h
+
+include/Cat.h
+Animal.h
+include/Animal.h
+
+include/Cat.hpp
+Cat.h
+include/Cat.h
+
+include/Dog.h
+
+include/Dog.hpp
+Dog.h
+include/Dog.h
+

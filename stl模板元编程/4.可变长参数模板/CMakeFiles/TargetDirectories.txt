@@ -1,0 +1,3 @@
+/home/zhaodein/workspace/project/stl模板元编程/4.可变长参数模板/CMakeFiles/edit_cache.dir
+/home/zhaodein/workspace/project/stl模板元编程/4.可变长参数模板/CMakeFiles/rebuild_cache.dir
+/home/zhaodein/workspace/project/stl模板元编程/4.可变长参数模板/CMakeFiles/template.dir

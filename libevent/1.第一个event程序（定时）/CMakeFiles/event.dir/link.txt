@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/event.dir/src/main.cpp.o  -o event  -Wall -levent 

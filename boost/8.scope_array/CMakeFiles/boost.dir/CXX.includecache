@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaodein/workspace/project/boost/8.scope_array/src/main.cpp
+boost/version.hpp
+-
+boost/config.hpp
+-
+iostream
+-
+fstream
+-
+vector
+-
+boost/progress.hpp
+-
+boost/date_time/gregorian/gregorian.hpp
+-
+boost/date_time/posix_time/posix_time.hpp
+-
+boost/smart_ptr.hpp
+-
+algorithm
+-
+

@@ -1,0 +1,3 @@
+/home/zhaodein/workspace/project/datastruct/3.插入排序/CMakeFiles/rebuild_cache.dir
+/home/zhaodein/workspace/project/datastruct/3.插入排序/CMakeFiles/edit_cache.dir
+/home/zhaodein/workspace/project/datastruct/3.插入排序/CMakeFiles/boost.dir

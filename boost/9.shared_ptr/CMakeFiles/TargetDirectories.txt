@@ -1,0 +1,3 @@
+/home/zhaodein/workspace/project/boost/9.shared_ptr/CMakeFiles/rebuild_cache.dir
+/home/zhaodein/workspace/project/boost/9.shared_ptr/CMakeFiles/edit_cache.dir
+/home/zhaodein/workspace/project/boost/9.shared_ptr/CMakeFiles/boost.dir
