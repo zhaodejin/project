@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaodein/workspace/project/c++新特性/5.RAII/src/main.cpp
+iostream
+-
+utility
+-
+bits/unique_ptr.h
+-
+tuple
+-
+memory
+-
+

@@ -1,0 +1,3 @@
+/home/zhaodein/workspace/project/c++/1.typedef/CMakeFiles/rebuild_cache.dir
+/home/zhaodein/workspace/project/c++/1.typedef/CMakeFiles/edit_cache.dir
+/home/zhaodein/workspace/project/c++/1.typedef/CMakeFiles/c++.dir

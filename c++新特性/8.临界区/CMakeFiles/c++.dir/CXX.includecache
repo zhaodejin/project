@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaodein/workspace/project/c++新特性/8.临界区/src/main.cpp
+iostream
+-
+utility
+-
+bits/unique_ptr.h
+-
+tuple
+-
+memory
+-
+regex
+-
+thread
+-
+bits/std_mutex.h
+-
+

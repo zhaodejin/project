@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaodein/workspace/project/c++新特性/9.future/src/main.cpp
+iostream
+-
+utility
+-
+bits/unique_ptr.h
+-
+tuple
+-
+memory
+-
+regex
+-
+thread
+-
+bits/std_mutex.h
+-
+future
+-
+utility
+-
+

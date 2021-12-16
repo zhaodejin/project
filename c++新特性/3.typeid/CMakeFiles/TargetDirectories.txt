@@ -1,0 +1,3 @@
+/home/zhaodein/workspace/project/c++新特性/3.typeid/CMakeFiles/rebuild_cache.dir
+/home/zhaodein/workspace/project/c++新特性/3.typeid/CMakeFiles/edit_cache.dir
+/home/zhaodein/workspace/project/c++新特性/3.typeid/CMakeFiles/c++.dir
