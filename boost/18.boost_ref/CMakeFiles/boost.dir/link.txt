@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/boost.dir/src/main.cc.o  -o boost   -L/usr/lib/lib  -Wl,-rpath,/usr/lib/lib -Wall -lpthread -lboost_thread 

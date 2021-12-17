@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaodein/workspace/project/boost/16.函数模板/src/main.cpp
+iostream
+-
+boost/function.hpp
+-
+typeinfo
+-
+string.h
+-
+stdlib.h
+-
+boost/bind.hpp
+-
+
